@@ -1,8 +1,17 @@
-## Hi there 👋
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Starry....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 ![](https://raw.githubusercontent.com/Starry1513/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Starry1513/github-stats/master/generated/languages.svg)
+
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Starry1513&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2>GitHub Stats</h2>
@@ -39,6 +48,62 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
+<div align="center">
+  <a align="left" href="https://github.com/Starry1513/kahoot" title="kahoot">
+    <img
+      align="left"
+      height="115"
+      alt="Starry1513/kahoot"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Starry1513&repo=kahoot&theme=react&border_color=61dafb&border_radius=10"
+    />
+  </a>
+</div>
+
+
+<div align="center">
+  <a align="left" href="https://github.com/Starry1513/t3gallery" title="nextjs">
+    <img
+      align="right"
+      height="115"
+      alt="Starry1513/kahoot"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Starry1513&repo=t3gallery&theme=react&border_color=61dafb&border_radius=10"
+    />
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div align="center">
+  <a align="left" href="https://github.com/Starry1513/kahoot" title="kahoot">
+    <img
+      align="left"
+      height="115"
+      alt="Starry1513/kahoot"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Starry1513&repo=kahoot&theme=react&border_color=61dafb&border_radius=10"
+    />
+  </a>
+</div>
+
+
+<div align="center">
+  <a align="left" href="https://github.com/Starry1513/t3gallery" title="nextjs">
+    <img
+      align="right"
+      height="115"
+      alt="Starry1513/kahoot"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Starry1513&repo=t3gallery&theme=react&border_color=61dafb&border_radius=10"
+    />
+  </a>
+</div>
+<h4 align="center">
+<br/><br/><br/><br/><br/><br/>
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
 <!--
 **Starry1513/Starry1513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
